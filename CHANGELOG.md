@@ -1,3 +1,5 @@
+## 1.0.0
+兼容android v2插件
 ## 0.3.5+1
 
 To adapt to the new version of the flutter sdk check kt plugin.
